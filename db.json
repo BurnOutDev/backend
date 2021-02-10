@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "name": "irakli",
+            "lastname": "murusidze",
+            "privatenumber": "123423423",
+            "dateofbirth": "2021-02-03",
+            "gender": "male"
+        },
+        {
+            "name": "",
+            "lastname": "",
+            "privatenumber": "",
+            "dateofbirth": "",
+            "gender": ""
+        }
+    ]
+}
